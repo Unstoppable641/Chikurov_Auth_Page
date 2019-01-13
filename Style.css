@@ -21,26 +21,26 @@ p {
 
 
 footer{
-    color: brown;
+    color: white;
 }
 footer a{
-    color: #green;
+    color: #bfffff;
 }
 footer a:hover{
-    color: black;
+    color: white;
 }
 
 .footer-bottom{
-    background: #green;
+    background: #BFC7C8;
     padding: 1em;
 }
 .footer-top{
-    background: #green;
+    background: #BFC7C8;
 }
 .footer-middle{
-    background: #green;
+    background: #BFC7C8;
     padding-top: 1em;
-    color: black;
+    color: white;
 }
 /**Sub Navigation**/
 .subnavigation-container{
